@@ -2,7 +2,7 @@
 
 Youtube Adsless is a browser extension designed to block ads on YouTube, providing a seamless and uninterrupted viewing experience.
 
-Firefox: (https://addons.mozilla.org/pt-BR/firefox/addon/youtube-adsless/)[https://addons.mozilla.org/pt-BR/firefox/addon/youtube-adsless/]
+Firefox: https://addons.mozilla.org/pt-BR/firefox/addon/youtube-adsless/
 
 ## Features
 
