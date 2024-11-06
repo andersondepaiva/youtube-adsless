@@ -25,5 +25,11 @@
 		"webRequestBlocking",
 		"contextMenus",
 		"<all_urls>"
-	]
+	],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "youtube-adsless@example.com",
+			"strict_min_version": "42.0"
+		}
+	}
 }
