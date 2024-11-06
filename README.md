@@ -4,13 +4,6 @@ Youtube Adsless is a browser extension designed to block ads on YouTube, providi
 
 Firefox: https://addons.mozilla.org/pt-BR/firefox/addon/youtube-adsless/
 
-## Features
-
-- Blocks video ads on YouTube
-- Removes banner ads
-- Lightweight and easy to use
-- Regular updates to ensure compatibility with YouTube changes
-
 ## Installation
 
 1. Clone the repository or download the ZIP file.
@@ -23,12 +16,9 @@ Firefox: https://addons.mozilla.org/pt-BR/firefox/addon/youtube-adsless/
 
 ## Usage
 
-Once installed, the extension will automatically block ads on YouTube. No further configuration is needed.
+Once installed, the extension will add a button on context menu to open the video in another tab without ads (using youtube-nocookie.com)
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
